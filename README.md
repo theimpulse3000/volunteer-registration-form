@@ -6,4 +6,4 @@ MIS : 111903078 , 111903083
 
 Batch : T5
 
-Guide : Santosh Sir
+Guide : Santosh Ghotkar Sir
